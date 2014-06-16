@@ -1,0 +1,12 @@
+{
+    "name": "Result Scraping 2014",
+    "version": "0.0.1",
+    "description": "Currently Scraping the latest Results May (2014)",
+    "dependencies": {
+        "request": "latest",
+        "cheerio": "latest",
+        "fs":"latest"
+        
+    },
+    "author": "surya"
+}
