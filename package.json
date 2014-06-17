@@ -1,11 +1,10 @@
 {
-    "name": "Result Scraping 2014",
+    "name": "Result_Scraping_2014",
     "version": "0.0.1",
-    "description": "Currently Scraping the latest Results May (2014)",
+    "description": "Scraper-NITT Ressults",
     "dependencies": {
         "request": "latest",
-        "cheerio": "latest",
-        "fs":"latest"
+        "cheerio": "latest"
         
     },
     "author": "surya"
